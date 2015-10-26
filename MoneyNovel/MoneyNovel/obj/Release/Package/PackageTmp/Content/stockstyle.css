@@ -1,0 +1,16 @@
+﻿.scrollable {
+    overflow-y: scroll;
+}
+
+.bodycontainer {
+    height: 100px !important;
+    width: 100%;
+}
+
+table {
+  background-color: none;
+}
+
+.table table-bordered table-hover tbody tr.highlight td { 
+    background-color: #f5f5f5;
+}

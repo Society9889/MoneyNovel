@@ -1,0 +1,3 @@
+﻿function search() {
+    alert("Clicked");
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MoneyNovel" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\bcole\\Source\\Workspaces\\Web\ Engineering\ 14\\MoneyNovel\\MoneyNovel\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\bcole\\Source\\Workspaces\\Web\ Engineering\ 14\\MoneyNovel\\MoneyNovel\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=&quot;vm344c.se.rit.edu, 1433&quot;;Initial Catalog=MoneyNovelProduction;User ID=mrk3767;Password=eut3dooPah;MultipleActiveResultSets=True;Application Name=EntityFramework" tags="" />
+  <parameter name="MoneyNovelProductionEntities-Web.config Connection String" description="" value="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string='data source=&quot;vm344c.se.rit.edu, 1433&quot;;initial catalog=MoneyNovelProduction;user id=mrk3767;password=eut3dooPah;application name=EntityFramework;MultipleActiveResultSets=True;App=EntityFramework'" tags="" />
+</parameters>
